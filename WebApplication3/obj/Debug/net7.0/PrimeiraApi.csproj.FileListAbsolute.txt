@@ -1,0 +1,152 @@
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.csproj.AssemblyReference.cache
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.AssemblyInfoInputs.cache
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.AssemblyInfo.cs
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.csproj.CoreCompileInputs.cache
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\appsettings.json
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\PrimeiraApi.exe
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\PrimeiraApi.deps.json
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\PrimeiraApi.runtimeconfig.json
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\PrimeiraApi.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\PrimeiraApi.pdb
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Humanizer.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets\msbuild.PrimeiraApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets\msbuild.build.PrimeiraApi.props
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PrimeiraApi.props
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PrimeiraApi.props
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\scopedcss\bundle\PrimeiraApi.styles.css
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.csproj.CopyComplete
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\refint\PrimeiraApi.dll
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.pdb
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.genruntimeconfig.cache
+C:\Users\anaro\source\repos\WebApplication3\WebApplication3\obj\Debug\net7.0\ref\PrimeiraApi.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\appsettings.json
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\PrimeiraApi.exe
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\PrimeiraApi.deps.json
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\PrimeiraApi.runtimeconfig.json
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\PrimeiraApi.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\PrimeiraApi.pdb
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Humanizer.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.csproj.AssemblyReference.cache
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.AssemblyInfoInputs.cache
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.AssemblyInfo.cs
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.csproj.CoreCompileInputs.cache
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets\msbuild.PrimeiraApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets\msbuild.build.PrimeiraApi.props
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PrimeiraApi.props
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PrimeiraApi.props
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\scopedcss\bundle\PrimeiraApi.styles.css
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.csproj.CopyComplete
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\refint\PrimeiraApi.dll
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.pdb
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\PrimeiraApi.genruntimeconfig.cache
+C:\Users\tacio\OneDrive\Documentos\Projetos C#\WebApplication3\WebApplication3\obj\Debug\net7.0\ref\PrimeiraApi.dll
