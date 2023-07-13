@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tacio\\OneDrive\\Documentos\\Projetos C#\\WebApplication3\\WebApplication3\\PrimeiraApi.csproj": {}
+    "C:\\Users\\tacio\\OneDrive\\Documentos\\Projetos C#\\WebApplication3\\PrimeiroRepositorio\\WebApplication3\\PrimeiraApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tacio\\OneDrive\\Documentos\\Projetos C#\\WebApplication3\\WebApplication3\\PrimeiraApi.csproj": {
+    "C:\\Users\\tacio\\OneDrive\\Documentos\\Projetos C#\\WebApplication3\\PrimeiroRepositorio\\WebApplication3\\PrimeiraApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tacio\\OneDrive\\Documentos\\Projetos C#\\WebApplication3\\WebApplication3\\PrimeiraApi.csproj",
+        "projectUniqueName": "C:\\Users\\tacio\\OneDrive\\Documentos\\Projetos C#\\WebApplication3\\PrimeiroRepositorio\\WebApplication3\\PrimeiraApi.csproj",
         "projectName": "PrimeiraApi",
-        "projectPath": "C:\\Users\\tacio\\OneDrive\\Documentos\\Projetos C#\\WebApplication3\\WebApplication3\\PrimeiraApi.csproj",
+        "projectPath": "C:\\Users\\tacio\\OneDrive\\Documentos\\Projetos C#\\WebApplication3\\PrimeiroRepositorio\\WebApplication3\\PrimeiraApi.csproj",
         "packagesPath": "C:\\Users\\tacio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tacio\\OneDrive\\Documentos\\Projetos C#\\WebApplication3\\WebApplication3\\obj\\",
+        "outputPath": "C:\\Users\\tacio\\OneDrive\\Documentos\\Projetos C#\\WebApplication3\\PrimeiroRepositorio\\WebApplication3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tacio\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -41,6 +41,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.9, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.4, )"

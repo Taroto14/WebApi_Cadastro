@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xEL0EGkETJpUgFVkKx9y49zs4DTURPA9YqQPAVRWQg1aIbrUElo5Cp3yrSePm8/xCX9x4SD+U9wc5RC+eY3FBQ==",
+  "dgSpecHash": "4KpD6U0F2MkXZaFC3TTsUL2FbCfSAXpb1be4oeZq3FnD56nRAvUTe3ThFYv7uAeizBcrZBnVFkFZK/iUiDB6JA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tacio\\OneDrive\\Documentos\\Projetos C#\\WebApplication3\\TestProject1\\TestProject1.csproj",
+  "projectFilePath": "C:\\Users\\tacio\\OneDrive\\Documentos\\Projetos C#\\WebApplication3\\PrimeiroRepositorio\\TestProject1\\TestProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tacio\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\tacio\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

@@ -1,7 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using PrimeiraApi.Data;
+﻿using Microsoft.AspNetCore.Mvc;
 using PrimeiraApi.Models;
 using PrimeiraApi.Negocio;
 using PrimeiraApi.Repositorios;
@@ -33,7 +30,8 @@ namespace PrimeiraApi.Controllers
         }
 
         [HttpPut]
-        public ActionResult Atualizar(UsuarioModel usuario, int Id)
+        [Route("{Id}")]
+        public ActionResult Atualizar(int Id, UsuarioModel usuario)
         {
             usuarioNegocio.Atualizar(usuario, Id);
             return Ok();

@@ -1,8 +1,10 @@
-﻿using PrimeiraApi.Models;
+﻿using Microsoft.AspNetCore.Mvc;
+using PrimeiraApi.Models;
 using PrimeiraApi.Negocio.Util;
 using PrimeiraApi.Repositorios.Interfaces;
 using System.Linq;
 using System.Runtime.InteropServices;
+using System.Web.Http;
 
 namespace PrimeiraApi.Negocio
 {
@@ -20,8 +22,8 @@ namespace PrimeiraApi.Negocio
                 throw new ArgumentException("CPF não é valido!");
 
             var usuarioDuplicado = usuarioRepositorio.BuscarUsuarioPorCpf(usuario.Cpf).Result.ToList();
-            
-            if(usuarioDuplicado.Any())
+
+            if (usuarioDuplicado.Any())
                 throw new ArgumentException("Já existe usuário cadastrado com esse CPF!");
 
             if (string.IsNullOrWhiteSpace(usuario.Nome))
@@ -40,7 +42,7 @@ namespace PrimeiraApi.Negocio
             return usuarioRepositorio.BuscarUsuarioPorCpf(cpf).Result.ToList();
         }
 
-        public void Atualizar(UsuarioModel usuario, int Id)
+        public void Atualizar(UsuarioModel usuario,int Id)
         {
             var usuarioDuplicado = usuarioRepositorio.BuscarUsuarioPorCpf(usuario.Cpf).Result.ToList().Where(usuario => usuario.Id != Id);
 
@@ -48,7 +50,7 @@ namespace PrimeiraApi.Negocio
                 throw new ArgumentException("Já existe usuário cadastrado com esse CPF!");
 
             usuarioRepositorio.Atualizar(usuario, Id);
-            
+
         }
     }
 }
